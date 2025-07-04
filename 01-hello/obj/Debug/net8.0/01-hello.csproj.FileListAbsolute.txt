@@ -1,0 +1,14 @@
+/home/fffantinho/Programing/C#/01-hello/bin/Debug/net8.0/01-hello
+/home/fffantinho/Programing/C#/01-hello/bin/Debug/net8.0/01-hello.deps.json
+/home/fffantinho/Programing/C#/01-hello/bin/Debug/net8.0/01-hello.runtimeconfig.json
+/home/fffantinho/Programing/C#/01-hello/bin/Debug/net8.0/01-hello.dll
+/home/fffantinho/Programing/C#/01-hello/bin/Debug/net8.0/01-hello.pdb
+/home/fffantinho/Programing/C#/01-hello/obj/Debug/net8.0/01-hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/fffantinho/Programing/C#/01-hello/obj/Debug/net8.0/01-hello.AssemblyInfoInputs.cache
+/home/fffantinho/Programing/C#/01-hello/obj/Debug/net8.0/01-hello.AssemblyInfo.cs
+/home/fffantinho/Programing/C#/01-hello/obj/Debug/net8.0/01-hello.csproj.CoreCompileInputs.cache
+/home/fffantinho/Programing/C#/01-hello/obj/Debug/net8.0/01-hello.dll
+/home/fffantinho/Programing/C#/01-hello/obj/Debug/net8.0/refint/01-hello.dll
+/home/fffantinho/Programing/C#/01-hello/obj/Debug/net8.0/01-hello.pdb
+/home/fffantinho/Programing/C#/01-hello/obj/Debug/net8.0/01-hello.genruntimeconfig.cache
+/home/fffantinho/Programing/C#/01-hello/obj/Debug/net8.0/ref/01-hello.dll
