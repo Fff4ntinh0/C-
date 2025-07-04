@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-hello", "01-hello\01-hello.csproj", "{068ABB48-3840-4505-91CC-3F5CBB1152E9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercises", "exercises", "{9AC4B58F-DBEB-452D-AD3A-042FE1FC3AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01a", "exercises\01a\01a.csproj", "{1E71CF4A-DE86-420F-8015-44B69A8F6AA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,12 @@ Global
 		{068ABB48-3840-4505-91CC-3F5CBB1152E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{068ABB48-3840-4505-91CC-3F5CBB1152E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{068ABB48-3840-4505-91CC-3F5CBB1152E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E71CF4A-DE86-420F-8015-44B69A8F6AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E71CF4A-DE86-420F-8015-44B69A8F6AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E71CF4A-DE86-420F-8015-44B69A8F6AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E71CF4A-DE86-420F-8015-44B69A8F6AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1E71CF4A-DE86-420F-8015-44B69A8F6AA2} = {9AC4B58F-DBEB-452D-AD3A-042FE1FC3AC3}
 	EndGlobalSection
 EndGlobal
