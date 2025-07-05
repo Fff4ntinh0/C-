@@ -1,0 +1,15 @@
+/home/fffantinho/Programing/C#/02-varibles/bin/Debug/net8.0/02-varibles
+/home/fffantinho/Programing/C#/02-varibles/bin/Debug/net8.0/02-varibles.deps.json
+/home/fffantinho/Programing/C#/02-varibles/bin/Debug/net8.0/02-varibles.runtimeconfig.json
+/home/fffantinho/Programing/C#/02-varibles/bin/Debug/net8.0/02-varibles.dll
+/home/fffantinho/Programing/C#/02-varibles/bin/Debug/net8.0/02-varibles.pdb
+/home/fffantinho/Programing/C#/02-varibles/obj/Debug/net8.0/02-varibles.GeneratedMSBuildEditorConfig.editorconfig
+/home/fffantinho/Programing/C#/02-varibles/obj/Debug/net8.0/02-varibles.AssemblyInfoInputs.cache
+/home/fffantinho/Programing/C#/02-varibles/obj/Debug/net8.0/02-varibles.AssemblyInfo.cs
+/home/fffantinho/Programing/C#/02-varibles/obj/Debug/net8.0/02-varibles.csproj.CoreCompileInputs.cache
+/home/fffantinho/Programing/C#/02-varibles/obj/Debug/net8.0/02-varibles.sourcelink.json
+/home/fffantinho/Programing/C#/02-varibles/obj/Debug/net8.0/02-varibles.dll
+/home/fffantinho/Programing/C#/02-varibles/obj/Debug/net8.0/refint/02-varibles.dll
+/home/fffantinho/Programing/C#/02-varibles/obj/Debug/net8.0/02-varibles.pdb
+/home/fffantinho/Programing/C#/02-varibles/obj/Debug/net8.0/02-varibles.genruntimeconfig.cache
+/home/fffantinho/Programing/C#/02-varibles/obj/Debug/net8.0/ref/02-varibles.dll

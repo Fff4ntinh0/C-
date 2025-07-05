@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fffantinho/Programing/C#/exercises/01a/every.csproj",
-      "projectName": "every",
-      "projectPath": "/home/fffantinho/Programing/C#/exercises/01a/every.csproj",
+      "projectUniqueName": "/home/fffantinho/Programing/C#/02-varibles/02-varibles.csproj",
+      "projectName": "02-varibles",
+      "projectPath": "/home/fffantinho/Programing/C#/02-varibles/02-varibles.csproj",
       "packagesPath": "/home/fffantinho/.nuget/packages/",
-      "outputPath": "/home/fffantinho/Programing/C#/exercises/01a/obj/",
+      "outputPath": "/home/fffantinho/Programing/C#/02-varibles/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fffantinho/.nuget/NuGet/NuGet.Config"

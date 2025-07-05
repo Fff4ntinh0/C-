@@ -7,15 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-hello", "01-hello\01-hel
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercises", "exercises", "{9AC4B58F-DBEB-452D-AD3A-042FE1FC3AC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01a", "exercises\01a\01a.csproj", "{1E71CF4A-DE86-420F-8015-44B69A8F6AA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "every", "exercises\01a\every.csproj", "{1E71CF4A-DE86-420F-8015-44B69A8F6AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-varibles", "02-varibles\02-varibles.csproj", "{12E2FF37-6AFA-4604-9A5F-6C61DEDF0032}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{068ABB48-3840-4505-91CC-3F5CBB1152E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -26,6 +25,13 @@ Global
 		{1E71CF4A-DE86-420F-8015-44B69A8F6AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E71CF4A-DE86-420F-8015-44B69A8F6AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E71CF4A-DE86-420F-8015-44B69A8F6AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E2FF37-6AFA-4604-9A5F-6C61DEDF0032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E2FF37-6AFA-4604-9A5F-6C61DEDF0032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E2FF37-6AFA-4604-9A5F-6C61DEDF0032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E2FF37-6AFA-4604-9A5F-6C61DEDF0032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1E71CF4A-DE86-420F-8015-44B69A8F6AA2} = {9AC4B58F-DBEB-452D-AD3A-042FE1FC3AC3}
