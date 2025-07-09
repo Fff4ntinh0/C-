@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fffantinho/Programing/C#/01-hello/01-hello.csproj": {}
+    "/home/fffantinho/Programing/C#/03-condicions/03-condicions.csproj": {}
   },
   "projects": {
-    "/home/fffantinho/Programing/C#/01-hello/01-hello.csproj": {
+    "/home/fffantinho/Programing/C#/03-condicions/03-condicions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fffantinho/Programing/C#/01-hello/01-hello.csproj",
-        "projectName": "01-hello",
-        "projectPath": "/home/fffantinho/Programing/C#/01-hello/01-hello.csproj",
+        "projectUniqueName": "/home/fffantinho/Programing/C#/03-condicions/03-condicions.csproj",
+        "projectName": "03-condicions",
+        "projectPath": "/home/fffantinho/Programing/C#/03-condicions/03-condicions.csproj",
         "packagesPath": "/home/fffantinho/.nuget/packages/",
-        "outputPath": "/home/fffantinho/Programing/C#/01-hello/obj/",
+        "outputPath": "/home/fffantinho/Programing/C#/03-condicions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fffantinho/.nuget/NuGet/NuGet.Config"
