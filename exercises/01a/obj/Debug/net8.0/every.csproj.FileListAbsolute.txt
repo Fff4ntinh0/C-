@@ -1,0 +1,15 @@
+/home/fffantinho/Programing/C#/exercises/01a/bin/Debug/net8.0/every
+/home/fffantinho/Programing/C#/exercises/01a/bin/Debug/net8.0/every.deps.json
+/home/fffantinho/Programing/C#/exercises/01a/bin/Debug/net8.0/every.runtimeconfig.json
+/home/fffantinho/Programing/C#/exercises/01a/bin/Debug/net8.0/every.dll
+/home/fffantinho/Programing/C#/exercises/01a/bin/Debug/net8.0/every.pdb
+/home/fffantinho/Programing/C#/exercises/01a/obj/Debug/net8.0/every.GeneratedMSBuildEditorConfig.editorconfig
+/home/fffantinho/Programing/C#/exercises/01a/obj/Debug/net8.0/every.AssemblyInfoInputs.cache
+/home/fffantinho/Programing/C#/exercises/01a/obj/Debug/net8.0/every.AssemblyInfo.cs
+/home/fffantinho/Programing/C#/exercises/01a/obj/Debug/net8.0/every.csproj.CoreCompileInputs.cache
+/home/fffantinho/Programing/C#/exercises/01a/obj/Debug/net8.0/every.sourcelink.json
+/home/fffantinho/Programing/C#/exercises/01a/obj/Debug/net8.0/every.dll
+/home/fffantinho/Programing/C#/exercises/01a/obj/Debug/net8.0/refint/every.dll
+/home/fffantinho/Programing/C#/exercises/01a/obj/Debug/net8.0/every.pdb
+/home/fffantinho/Programing/C#/exercises/01a/obj/Debug/net8.0/every.genruntimeconfig.cache
+/home/fffantinho/Programing/C#/exercises/01a/obj/Debug/net8.0/ref/every.dll

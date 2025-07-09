@@ -1,0 +1,15 @@
+/home/fffantinho/Programing/C#/03-condicions/obj/Debug/net8.0/03-condicions.GeneratedMSBuildEditorConfig.editorconfig
+/home/fffantinho/Programing/C#/03-condicions/obj/Debug/net8.0/03-condicions.AssemblyInfoInputs.cache
+/home/fffantinho/Programing/C#/03-condicions/obj/Debug/net8.0/03-condicions.AssemblyInfo.cs
+/home/fffantinho/Programing/C#/03-condicions/obj/Debug/net8.0/03-condicions.csproj.CoreCompileInputs.cache
+/home/fffantinho/Programing/C#/03-condicions/obj/Debug/net8.0/03-condicions.sourcelink.json
+/home/fffantinho/Programing/C#/03-condicions/bin/Debug/net8.0/03-condicions
+/home/fffantinho/Programing/C#/03-condicions/bin/Debug/net8.0/03-condicions.deps.json
+/home/fffantinho/Programing/C#/03-condicions/bin/Debug/net8.0/03-condicions.runtimeconfig.json
+/home/fffantinho/Programing/C#/03-condicions/bin/Debug/net8.0/03-condicions.dll
+/home/fffantinho/Programing/C#/03-condicions/bin/Debug/net8.0/03-condicions.pdb
+/home/fffantinho/Programing/C#/03-condicions/obj/Debug/net8.0/03-condicions.dll
+/home/fffantinho/Programing/C#/03-condicions/obj/Debug/net8.0/refint/03-condicions.dll
+/home/fffantinho/Programing/C#/03-condicions/obj/Debug/net8.0/03-condicions.pdb
+/home/fffantinho/Programing/C#/03-condicions/obj/Debug/net8.0/03-condicions.genruntimeconfig.cache
+/home/fffantinho/Programing/C#/03-condicions/obj/Debug/net8.0/ref/03-condicions.dll

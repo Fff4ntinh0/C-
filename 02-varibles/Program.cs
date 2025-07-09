@@ -24,7 +24,7 @@ string z = $"""O texto "{w}" tem {w.Length} caracteres""";
 Console.WriteLine(z);
 
 Console.WriteLine("What is your favorite game? ");
-string text1 = Console.ReadLine();
+string text1 = Console.ReadLine()!;
 
 Console.WriteLine($"How much is the {text1}? ");
 double prec1 = Convert.ToDouble(Console.ReadLine());
