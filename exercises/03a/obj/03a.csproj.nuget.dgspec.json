@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fffantinho/Programing/C#/exercises/01a/01a.csproj": {}
+    "/home/fffantinho/Programing/C#/exercises/03a/03a.csproj": {}
   },
   "projects": {
-    "/home/fffantinho/Programing/C#/exercises/01a/01a.csproj": {
+    "/home/fffantinho/Programing/C#/exercises/03a/03a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fffantinho/Programing/C#/exercises/01a/01a.csproj",
-        "projectName": "01a",
-        "projectPath": "/home/fffantinho/Programing/C#/exercises/01a/01a.csproj",
+        "projectUniqueName": "/home/fffantinho/Programing/C#/exercises/03a/03a.csproj",
+        "projectName": "03a",
+        "projectPath": "/home/fffantinho/Programing/C#/exercises/03a/03a.csproj",
         "packagesPath": "/home/fffantinho/.nuget/packages/",
-        "outputPath": "/home/fffantinho/Programing/C#/exercises/01a/obj/",
+        "outputPath": "/home/fffantinho/Programing/C#/exercises/03a/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fffantinho/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/home/fffantinho/Programing/C#/exercises/03a/bin/Debug/net8.0/03a
+/home/fffantinho/Programing/C#/exercises/03a/bin/Debug/net8.0/03a.deps.json
+/home/fffantinho/Programing/C#/exercises/03a/bin/Debug/net8.0/03a.runtimeconfig.json
+/home/fffantinho/Programing/C#/exercises/03a/bin/Debug/net8.0/03a.dll
+/home/fffantinho/Programing/C#/exercises/03a/bin/Debug/net8.0/03a.pdb
+/home/fffantinho/Programing/C#/exercises/03a/obj/Debug/net8.0/03a.GeneratedMSBuildEditorConfig.editorconfig
+/home/fffantinho/Programing/C#/exercises/03a/obj/Debug/net8.0/03a.AssemblyInfoInputs.cache
+/home/fffantinho/Programing/C#/exercises/03a/obj/Debug/net8.0/03a.AssemblyInfo.cs
+/home/fffantinho/Programing/C#/exercises/03a/obj/Debug/net8.0/03a.csproj.CoreCompileInputs.cache
+/home/fffantinho/Programing/C#/exercises/03a/obj/Debug/net8.0/03a.sourcelink.json
+/home/fffantinho/Programing/C#/exercises/03a/obj/Debug/net8.0/03a.dll
+/home/fffantinho/Programing/C#/exercises/03a/obj/Debug/net8.0/refint/03a.dll
+/home/fffantinho/Programing/C#/exercises/03a/obj/Debug/net8.0/03a.pdb
+/home/fffantinho/Programing/C#/exercises/03a/obj/Debug/net8.0/03a.genruntimeconfig.cache
+/home/fffantinho/Programing/C#/exercises/03a/obj/Debug/net8.0/ref/03a.dll
