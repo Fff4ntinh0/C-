@@ -1,0 +1,15 @@
+/home/fffantinho/Programing/C#/04-loops/bin/Debug/net8.0/04-loops
+/home/fffantinho/Programing/C#/04-loops/bin/Debug/net8.0/04-loops.deps.json
+/home/fffantinho/Programing/C#/04-loops/bin/Debug/net8.0/04-loops.runtimeconfig.json
+/home/fffantinho/Programing/C#/04-loops/bin/Debug/net8.0/04-loops.dll
+/home/fffantinho/Programing/C#/04-loops/bin/Debug/net8.0/04-loops.pdb
+/home/fffantinho/Programing/C#/04-loops/obj/Debug/net8.0/04-loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/fffantinho/Programing/C#/04-loops/obj/Debug/net8.0/04-loops.AssemblyInfoInputs.cache
+/home/fffantinho/Programing/C#/04-loops/obj/Debug/net8.0/04-loops.AssemblyInfo.cs
+/home/fffantinho/Programing/C#/04-loops/obj/Debug/net8.0/04-loops.csproj.CoreCompileInputs.cache
+/home/fffantinho/Programing/C#/04-loops/obj/Debug/net8.0/04-loops.sourcelink.json
+/home/fffantinho/Programing/C#/04-loops/obj/Debug/net8.0/04-loops.dll
+/home/fffantinho/Programing/C#/04-loops/obj/Debug/net8.0/refint/04-loops.dll
+/home/fffantinho/Programing/C#/04-loops/obj/Debug/net8.0/04-loops.pdb
+/home/fffantinho/Programing/C#/04-loops/obj/Debug/net8.0/04-loops.genruntimeconfig.cache
+/home/fffantinho/Programing/C#/04-loops/obj/Debug/net8.0/ref/04-loops.dll
