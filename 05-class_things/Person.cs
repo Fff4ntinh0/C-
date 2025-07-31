@@ -1,45 +1,78 @@
-using System.Collections.Specialized;
-using System.IO.Compression;
+using System;
 
 public class Person
 {
-    public string name;
-    public int strenge;
-    public int life;
-    public int intelligence;
-    public int level;
+    private string name;
+    public string Name
+    {
+        get => name;
+        set
+        {
+            if (value.Length >= 3)
+            {
+                name = value;
+            }
+            else
+            {
+                Console.WriteLine("Name must be at least 3 characters long.");
+            }
+        }
+    }
+
+    private int strength;
+    public int Strength
+    {
+        get => strength;
+        set => strength = value;
+    }
+
+    private int life;
+    public int Life
+    {
+        get => life;
+        set => life = value;
+    }
+
+    private int intelligence;
+    public int Intelligence
+    {
+        get => intelligence;
+        set => intelligence = value;
+    }
+
+    private int level;
+    public int Level
+    {
+        get => level;
+        set => level = value;
+    }
 
     public Person()
     {
-        strenge = 10;
+        strength = 10;
         life = 100;
         intelligence = 20;
         level = 1;
     }
 
-    public void level_up()
+    public void LevelUp()
     {
         level += 1;
-        strenge += (level * 2);
+        strength += (level * 2);
         intelligence += (level * 2);
         life += (level * 2);
 
-        Console.WriteLine($"Strenger = {strenge}, Life = {life}, Intelligence = {intelligence} by {name}");
+        Console.WriteLine($"[Level Up] {Name} => Strength = {strength}, Life = {life}, Intelligence = {intelligence}");
     }
 
-    public void attack(Person other)
+    public void Attack(Person other)
     {
-
-        other.life -= strenge;
-        Console.WriteLine($"{name} attacked {other.name} and {other.name}'life now is: {other.life}");
+        other.life -= strength;
+        Console.WriteLine($"{Name} attacked {other.Name}! {other.Name}'s life is now {other.life}");
 
         if (other.life <= 0)
         {
-            Console.WriteLine($"{other.name} is died");
+            Console.WriteLine($"{other.Name} has died.");
         }
-
     }
-
-
-
 }

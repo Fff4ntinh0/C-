@@ -1,16 +1,17 @@
 ﻿Person person1 = new Person();
-
-Console.WriteLine("What is your name? ");
-person1.name = Console.ReadLine()!;
+Console.Write("What is the name of the first character? ");
+person1.Name = Console.ReadLine()!;
 
 Person person2 = new Person();
+Console.Write("What is the name of the second character? ");
+person2.Name = Console.ReadLine()!;
 
-Console.WriteLine("What is your name? ");
-person2.name = Console.ReadLine()!;
-
-person1.level_up();
+person1.LevelUp();
 
 for (int i = 1; i <= 10; i++)
 {
-    person1.attack(person2);
+    Console.WriteLine($"\n[Round {i}]");
+    person1.Attack(person2);
+    if (person2.Life <= 0)
+        break;
 }

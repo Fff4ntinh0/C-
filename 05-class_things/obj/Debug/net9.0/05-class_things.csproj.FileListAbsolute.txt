@@ -1,0 +1,15 @@
+/home/fffantinho/Programing/C#/05-class_things/bin/Debug/net9.0/05-class_things
+/home/fffantinho/Programing/C#/05-class_things/bin/Debug/net9.0/05-class_things.deps.json
+/home/fffantinho/Programing/C#/05-class_things/bin/Debug/net9.0/05-class_things.runtimeconfig.json
+/home/fffantinho/Programing/C#/05-class_things/bin/Debug/net9.0/05-class_things.dll
+/home/fffantinho/Programing/C#/05-class_things/bin/Debug/net9.0/05-class_things.pdb
+/home/fffantinho/Programing/C#/05-class_things/obj/Debug/net9.0/05-class_things.GeneratedMSBuildEditorConfig.editorconfig
+/home/fffantinho/Programing/C#/05-class_things/obj/Debug/net9.0/05-class_things.AssemblyInfoInputs.cache
+/home/fffantinho/Programing/C#/05-class_things/obj/Debug/net9.0/05-class_things.AssemblyInfo.cs
+/home/fffantinho/Programing/C#/05-class_things/obj/Debug/net9.0/05-class_things.csproj.CoreCompileInputs.cache
+/home/fffantinho/Programing/C#/05-class_things/obj/Debug/net9.0/05-class_things.sourcelink.json
+/home/fffantinho/Programing/C#/05-class_things/obj/Debug/net9.0/05-class_things.dll
+/home/fffantinho/Programing/C#/05-class_things/obj/Debug/net9.0/refint/05-class_things.dll
+/home/fffantinho/Programing/C#/05-class_things/obj/Debug/net9.0/05-class_things.pdb
+/home/fffantinho/Programing/C#/05-class_things/obj/Debug/net9.0/05-class_things.genruntimeconfig.cache
+/home/fffantinho/Programing/C#/05-class_things/obj/Debug/net9.0/ref/05-class_things.dll
