@@ -2,15 +2,14 @@ using System;
 
 public class Person
 {
-    private string name;
     public string Name
     {
-        get => name;
+        get;
         set
         {
             if (value.Length >= 3)
             {
-                name = value;
+                field = value;
             }
             else
             {
@@ -22,8 +21,8 @@ public class Person
     private int strength;
     public int Strength
     {
-        get => strength;
-        set => strength = value;
+        get;
+        set => field = value;
     }
 
     private int life;
